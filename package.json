@@ -43,7 +43,7 @@
 		}
 	],
 	"config": {
-		"backgroundСolor": "#667da2",
+		"backgroundColor": "#667da2",
 		"icons": "icons"
 	}
 }
